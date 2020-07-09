@@ -17,3 +17,5 @@ Left = "a" Key;
 Right = "d" Key; 
 Up = "w" Key; 
 Down = "s" Key; 
+
+![](Images/PySquare.PNG)
